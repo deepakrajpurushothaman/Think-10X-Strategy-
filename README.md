@@ -1,5 +1,5 @@
 # Think-10X-Strategy-
-The repository currently contains MOOC Certificates Obtained on Coursera and EdX 
+The repository currently contains MOOC Certificates Obtained on Coursera and EdX. I try to learn skills that interests me and would like to think about for life long learning using think10X approach.
 
 Below Figure Shows My Data Management Skill track Index compared to top 10% Coursera learners. The skill index for other skills will be updated as and whenn it is available from coursera:
 
